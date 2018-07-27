@@ -1,0 +1,26 @@
+[{
+    "id": "avinash7124@gmail.com",
+    "userdetails": {
+        "email": "avinash7124@gmail.com",
+        "password": "$2b$10$dZBBxLerck8paE0WyNIFB.PffNebG332BsLBD9kKcLKW0XXoNdu4K",
+        "username": "Avinash singh",
+        "contactno": ["8122775581"],
+        "address": "c2 BtM  hhh 2nd stage"
+    }
+}, {
+    "id": "vivek@gmail.com",
+    "userdetails": {
+        "email": "vivek@gmail.com",
+        "password": "$2b$10$3NzFB2TE35DnGn0xHiUW2O/vrM4gvcK8ID87LD8Qly4.l5/zH0moO",
+        "username": "Avinash",
+        "contactno": ["8122775581"]
+    }
+}, {
+    "id": "vivek@gmail.comdf",
+    "userdetails": {
+        "email": "vivek@gmail.comdf",
+        "password": "$2b$10$TdxE9yGR5W0qsdjx./UPXueq/XAGi2pqYAS7GnYfiaq5UmEfS3yYW",
+        "username": "Avinash",
+        "contactno": ["8122775581"]
+    }
+}]
